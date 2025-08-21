@@ -24,7 +24,7 @@ The app is hosted on Streamlit Cloud and can be accessed at:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/multiple-disease-prediction-streamlit-app.git
+   git clone https://github.com/Vi1en/multiple-disease-prediction-streamlit-app.git
    cd multiple-disease-prediction-streamlit-app
    ```
 
@@ -148,3 +148,7 @@ If you have any questions or need help, please open an issue on GitHub.
 ---
 
 **Note**: This application is for educational and research purposes only. Medical predictions should not replace professional medical advice.
+=======
+# multiple-disease-prediction-streamlit-app
+A comprehensive Streamlit web application for predicting multiple diseases using machine learning
+>>>>>>> 1dc8522d6bf2f411185212a1d8acc21d41494a46
