@@ -13,7 +13,7 @@ A comprehensive Streamlit web application that uses machine learning models to p
 ## 🚀 Live Demo
 
 The app is hosted on Streamlit Cloud and can be accessed at:
-[Streamlit App Link] (Add your Streamlit Cloud URL here)
+**[🌐 Live App](https://multiple-disease-prediction-app-app-cahregxftg44s93fd7jfvs.streamlit.app/)**
 
 ## 📋 Prerequisites
 
